@@ -1,0 +1,10 @@
+# Install requirements-cuda.txt first to use the NVIDIA GPU.
+torch==2.14.1
+torchvision==0.29.1
+opencv-python==4.14.0.94
+numpy==2.4.6
+Pillow==12.3.0
+transformers==4.57.6
+ultralytics==8.4.194
+ipykernel==7.4.0
+jupyterlab==4.6.5

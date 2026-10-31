@@ -1,0 +1,18 @@
+{
+  "camera": 2,
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "backend": "auto",
+  "fourcc": "MJPG",
+  "autofocus": "unchanged",
+  "mode": "combined",
+  "device": "auto",
+  "infer_width": 518,
+  "stop_distance": 1.2,
+  "slow_distance": 2.5,
+  "max_depth": 20.0,
+  "danger_ratio": 0.08,
+  "stride": 4,
+  "side_range": 5.0
+}
